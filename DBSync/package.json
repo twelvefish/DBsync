@@ -1,0 +1,24 @@
+{
+  "name": "dbsync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/mssql": "^4.0.10",
+    "@types/uuid": "^3.4.4",
+    "firebase-admin": "^6.1.0",
+    "moment-timezone": "^0.5.23",
+    "mssql": "^4.2.2",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/gapi.client.drive": "^3.0.1",
+    "tslint": "^5.8.0",
+    "typescript": "^2.5.3"
+  }
+}
